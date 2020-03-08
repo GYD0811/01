@@ -74,10 +74,10 @@ giteement:
   enable: true
   redirect_uri: https://globien.gitee.io
   oauth_uri: https://cors-anywhere.herokuapp.com/https://gitee.com/oauth/token 
-  giteeID: 'globien'
-  repo: 'globien'
-  ClientID: 'e7d2ae28ff2563389f190714328b3896fbd0f329240e2fd9f3ded8d208000ec4'
-  ClientSecret: 'c649de868686537323c7ae23ee78cad89fec5e0d676215158b1752dbf5211a0b'
+  giteeID: globien
+  repo: globien
+  ClientID: e7d2ae28ff2563389f190714328b3896fbd0f329240e2fd9f3ded8d208000ec4
+  ClientSecret: c649de868686537323c7ae23ee78cad89fec5e0d676215158b1752dbf5211a0b
 
 
 # 统计
