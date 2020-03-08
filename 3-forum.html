@@ -143,13 +143,13 @@ header-img: "img/post-bg-rwd.jpg"
     <script>
     var giteement = new Giteement({
       id: {{date(page.date, 'YYYYMMDDHHmmss')}},
-      owner: '{{theme.giteement.giteeID}}',
-      repo: '{{theme.giteement.repo}}',
-      backcall_uri: '{{theme.giteement.redirect_uri}}',
-      oauth_uri: '{{theme.giteement.oauth_uri}}',
+      owner: '{{site.giteement.giteeID}}',
+      repo: '{{site.giteement.repo}}',
+      backcall_uri: '{{site.giteement.redirect_uri}}',
+      oauth_uri: '{{site.giteement.oauth_uri}}',
       oauth: {
-        client_id: '{{theme.giteement.ClientID}}',
-        client_secret: '{{theme.giteement.ClientSecret}}'
+        client_id: '{{site.giteement.ClientID}}',
+        client_secret: '{{site.giteement.ClientSecret}}'
       },
     })
     giteement.render('giteementDiv')
