@@ -136,15 +136,16 @@ header-img: "img/post-bg-rwd.jpg"
 {% endif %}
 
 <!-- giteement评论系统 -->
+<!-- <link rel="stylesheet" href="https://giteement.oss-cn-beijing.aliyuncs.com/wd-discuss.css"> -->
+<!-- <script src="https://giteement.oss-cn-beijing.aliyuncs.com/discuss_hexo.js"></script> -->
+<link rel="stylesheet" href="https://giteement.oss-cn-beijing.aliyuncs.com/default.css">
+<script src="https://giteement.oss-cn-beijing.aliyuncs.com/giteement.browser.js"></script>
 
 <div id="giteementDiv"></div>
-    <link rel="stylesheet" href="https://giteement.oss-cn-beijing.aliyuncs.com/wd-discuss.css">
-    <script src="https://giteement.oss-cn-beijing.aliyuncs.com/discuss_hexo.js"></script>
-    <!-- <link rel="stylesheet" href="https://giteement.oss-cn-beijing.aliyuncs.com/default.css"> -->
-    <!-- <script src="https://giteement.oss-cn-beijing.aliyuncs.com/giteement.browser.js"></script> -->
-    <script>
+    <script type="text/javascript">
     var giteement = new Giteement({
-      id: '{{date(page.date, 'YYYYMMDDHHmmss')}}',
+      # id: '{{date(page.date, 'YYYYMMDDHHmmss')}}',
+      id: 'forum',
       owner: '{{site.giteement.giteeID}}',
       repo: '{{site.giteement.repo}}',
       backcall_uri: '{{site.giteement.redirect_uri}}',
@@ -155,4 +156,4 @@ header-img: "img/post-bg-rwd.jpg"
       },
     });
     giteement.render('giteementDiv');
-    </script>
+</script>
