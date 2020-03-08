@@ -136,12 +136,11 @@ header-img: "img/post-bg-rwd.jpg"
 {% endif %}
 
 <!-- giteement评论系统 -->
-{% if site.giteement.enable %}
+
 <div id="giteementDiv"></div>
     <link rel="stylesheet" href="https://giteement.oss-cn-beijing.aliyuncs.com/default.css">
     <script src="https://giteement.oss-cn-beijing.aliyuncs.com/giteement.browser.js"></script>
-    <p> test test test </p>
-    <script type="text/javascript">
+    <script>
     var giteement = new Giteement({
       id: {{date(page.date, 'YYYYMMDDHHmmss')}},
       owner: '{{theme.giteement.giteeID}}',
@@ -155,4 +154,3 @@ header-img: "img/post-bg-rwd.jpg"
     })
     giteement.render('giteementDiv')
     </script>
-{% endif %}
