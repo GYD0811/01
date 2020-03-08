@@ -71,16 +71,13 @@ gitalk:
 
 # Giteement 
 giteement:
-  enable: true  # 是否启用码云评论系统
-  remote: false    # 是否使用官方js(false可以提升访问速度)
-  redirect_uri: https://globien.gitee.io  # 应用回调地址(请和配置的第三方应用保持一致)
-  # 不能更改(网上开源项目https://github.com/Rob--W/cors-anywhere作者提供的专门用来跨域服务器的配置)
-  oauth_uri: https://cors-anywhere.herokuapp.com/https://gitee.com/oauth/token
-  giteeID: globien  # 你的码云账号英文名
-  # 存储评论的 repo
-  repo: globien
-  ClientID: e7d2ae28ff2563389f190714328b3896fbd0f329240e2fd9f3ded8d208000ec4           #client ID
-  ClientSecret: c649de868686537323c7ae23ee78cad89fec5e0d676215158b1752dbf5211a0b       #client secret
+  enable: true
+  redirect_uri: https://globien.gitee.io
+  oauth_uri: https://cors-anywhere.herokuapp.com/https://gitee.com/oauth/token 
+  giteeID: 'globien'
+  repo: 'globien'
+  ClientID: 'e7d2ae28ff2563389f190714328b3896fbd0f329240e2fd9f3ded8d208000ec4'
+  ClientSecret: 'c649de868686537323c7ae23ee78cad89fec5e0d676215158b1752dbf5211a0b'
 
 
 # 统计
