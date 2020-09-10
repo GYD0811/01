@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      新冠病毒怎么说？
+title:      “新冠病毒”怎么说？
 subtitle:   大家都来造这个词组吧
 date:       2020-09-10
 author:     Henri Jambo
 header-img: img/post-bg-coronavirus-model-sm.jpg
-catalog: 	false
+catalog:    false
 tags:
     - 知识点滴
 ---
