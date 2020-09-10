@@ -5,9 +5,9 @@ subtitle:   论格罗比言中组合词的构造
 date:       2018-12-20
 author:     Henri Jambo
 header-img: img/post-bg-alibaba.jpg
-catalog: false
+catalog:    false
 tags:
-    - 设计点滴
+    - 造语点滴
 ---
 
 花生在英文里叫peanut，是一个复合词，意思是“像豌豆一样的坚果”。
