@@ -20,4 +20,4 @@
 
 ### License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://gitee.com/globien/globien/blob/master/LICENSE)。
+内容部分遵循CC BY-NC-SA 4.0许可，软件部分遵循 MIT 许可证。详细请阅[LICENSE](https://gitee.com/globien/globien/blob/master/LICENSE)。
