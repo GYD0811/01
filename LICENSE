@@ -1,6 +1,17 @@
-MIT License
-
 Copyright (c) 2019-2020 Henri Jambo 
+
+本项目分为两个部分，适用于不同的开源许可：
+
+1、属于格罗比言·全球语（Globien）内容的部分，即_post、files、post-img文件夹下面的
+所有文件，适用于BY-NC-SA 4.0知识共享协议（署名-非商业性使用-相同方式共享）。未经授权
+不可用于商业目的。
+
+BY-NC-SA 4.0：https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+
+2、与格罗比言·全球语内容没有直接关系、属于博客展示部分的网站代码部分，遵循MIT协议，您
+可以在满足该协议要求的情况下使用、修改和分发。
+
+MIT License:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,6 +1,8 @@
 欢迎来到"格罗比言·全球语"项目！
 
-格罗比言·全球语 (Globien) 是新一代人造国际语。她传承世界语 (Esperanto) 精神，融合中、英、法三大语言，更加简单易学，是更有效的国际沟通桥梁。
+格罗比言·全球语 (Globien) 是新一代的人造国际语。
+
+格罗比言传承世界语 (Esperanto) 精神，融合中英法三大语言，更加简单易学，有望成为更有效的国际沟通桥梁。
 
 格罗比言官网 (https://globien.gitee.io) 由本项目支撑。
 
@@ -8,9 +10,8 @@
 
 1. 为完善格罗比言提供建议。
 2. 为格罗比言的发展普及提供建议和帮助。
-3. 发表合适的博客（请在_posts目录下创建新的帖子，文件名和内容格式参考已有帖子）。
-4. 共同完善格罗比言Wiki词典（请点击本页目录的“Wiki"标签）。
-5. 帮助美化、完善本网站。
+3. 共同完善格罗比言Wiki词典（请点击本页目录的“Wiki"标签）。
+4. 帮助美化、完善本网站。
 
 ### 致谢
 
@@ -20,4 +21,4 @@
 
 ### License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://gitee.com/globien/globien/blob/master/LICENSE)。
+内容部分遵循CC BY-NC-SA 4.0许可，软件部分遵循 MIT 许可证。详细请阅读 [LICENSE](https://gitee.com/globien/globien/blob/master/LICENSE)。
