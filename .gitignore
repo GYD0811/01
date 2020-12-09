@@ -2,7 +2,7 @@
 # Created by https://www.gitignore.io/api/macos
 
 # Archive
-archive
+archive/
 
 ### macOS ###
 *.DS_Store
