@@ -22,38 +22,36 @@ tags:
 另外，格罗比言遵循广义的“一字一音”原则，基本做到“看到能读，听到能写”。
 
 ### 一、字母表
-格罗比言使用最广泛的26罗马字母表，但其中q、w、x三个字母仅用于外来语，实际使用23个字母。
+格罗比言使用最广泛的26罗马字母表，但其中q、w、x、y四个字母仅用于外来语，实际使用22个字母。
 
-| 字母 | 字母名读法 | 字母读法   | Notis           |
-|:---:|:-----:|:------:|:---------------|
-| Aa | a     | \[a\]  |
-| Bb | be    | \[b\]  |
-| Cc | ce    | \[ts\] |
-| Dc | de    | \[d\]  |
-| Ee | e     | \[e\]  |
-| Ff | ef    | \[f\]  |
-| Gg | ge    | \[g\]  |
-| Hh | ech   | \[h\]  |
-| Ii | i     | \[i\]  |
-| Jj | je    | \[dʒ\] |
-| Kk | ke    | \[k\]  | 实为送气音（加上角标h）    |
-| Ll | el    | \[l\]  |
-| Mm | em    | \[m\]  |
-| Nn | en    | \[n\]  |
-| Oo | o     | \[o\]  |
-| Pp | pe    | \[p\]  | 实为送气音（加上角标h）    |
-| Qq | kue   | \[k\]  | 仅用于外来词          |
-| Rr | er    | \[ɹ\]  |
-| Ss | es    | \[s\]  |
-| Tt | te    | \[t\]  | 实为送气音（加上角标h）    |
-| Uu | u     | \[u\]  |
-| Vv | ve    | \[v\]  |
-| Ww | we    | \[w\]  | 仅用于外来词          |
-| Xx | eks   | \[ks\] | 仅用于外来词          |
-| Yy | y     | \[y\]  | 
-| Zz | ze    | \[z\]  |
-
-* y相当于拼音字母ü（迂），不会念ü者也可按英语念[ju]；用于外来词时，可以发[j]
+| 字母 | 字母名读法 (IPA) | 字母读音 (IPA) | 说明                      |
+| ---- | ---------------- | -------------- | ------------------------- |
+| Aa   | [a]              | [a]            |                           |
+| Bb   | [be]             | [b]            |                           |
+| Cc   | [tse]            | [ts]           |                           |
+| Dc   | [de]             | [d]            |                           |
+| Ee   | [e]              | [e]            |                           |
+| Ff   | [ef]             | [f]            |                           |
+| Gg   | [ge]             | [g]            |                           |
+| Hh   | [etʃ]            | [h]            |                           |
+| Ii   | [i]              | [i]            |                           |
+| Jj   | [dʒe]            | [dʒ]           |                           |
+| Kk   | [ke]             | [k]            | 实为送气音[k<sup>h</sup>] |
+| Ll   | [el]             | [l]            |                           |
+| Mm   | [em]             | [m]            |                           |
+| Nn   | [en]             | [n]            |                           |
+| Oo   | [o]              | [o]            |                           |
+| Pp   | [pe]             | [p]            | 实为送气音[p<sup>h</sup>] |
+| Qq   | [kue]            | [k]            | 仅用于角标声母和外来词    |
+| Rr   | [er]             | [ɹ]            |                           |
+| Ss   | [es]             | [s]            |                           |
+| Tt   | [te]             | [t]            | 实为送气音[t<sup>h</sup>] |
+| Uu   | [u]              | [u]            |                           |
+| Vv   | [ve]             | [v]            |                           |
+| Ww   | [we]             | [w]            | 仅用于角标声母和外来词    |
+| Xx   | [eks]            | [ks]           | 仅用于角标声母和外来词    |
+| Yy   | [je]             | [j] / [i]      | 仅用于角标声母和外来词    |
+| Zz   | [ze]             | [z]            |                           |
 
 ### 二、音素表
 
@@ -82,10 +80,11 @@ tags:
 | 19 | sh | \[ʃ\]  |<font face="courier"> en:SHip, fr:CHer ,cn:Xi</font> |
 
 * 除了本表所列复辅音，其它相连辅音都按照各个辅音的读音快速连读
-* 为简便起见，省略了送气音[p]/[t]/[k]的上角标h
-* b/d/g发音实为不送气音[p]/[t]/[k]，类似英语和汉语发音，但发法语那样的浊音[b]/[d]/[g]也可
+* p/t/k的发音为送气音[ph]/[th]/[kh]，为简便起见，省略了表示送气音的上角标h
+* b/d/g发音实为不送气音[p]/[t]/[k]，类似英语和汉语发音，但发法语那样的浊音[b]/[d]/[g]也可以
+* 总体上：元音音素偏汉语发音（除了u偏英语，介于ü/u之间），辅音音素偏英语发音
 
-#### 2、元音18个
+#### 2、元音16个
 
 | 元音 | 拼写 | IPA  | 类似读音（推荐读音：cn）       |
 |:---:|:---:|:-----:|:---------------------------|
@@ -94,28 +93,27 @@ tags:
 | 3   | o  | \[o\]  |<font face="courier"> en:fOr,  fr:grOs, cn:bO </font>  |
 | 4   | i  | \[i\]  |<font face="courier"> en:bEE,  fr:grIs, cn:bI </font>  |
 | 5   | u  | \[u\]  |<font face="courier"> en:flU,  fr:vOUs, cn:bU </font>  |
-| 6   | y  | \[y\]  |<font face="courier"> en:fEW,  fr:menU, cn:jU </font>  |
-| 双元音 |
-| 7   | ai | \[ai\] |<font face="courier"> en:EYE,  fr: // , cn:AI </font>  |
-| 8   | ei | \[ei\] |<font face="courier"> en:hEI,  fr: // , cn:EI </font>  |
-| 9   | au | \[aʊ\] |<font face="courier"> en:hOW,  fr: // , cn:AO </font>  |
-| 10  | ou | \[əʊ\] |<font face="courier"> en:lOW,  fr: // , cn:OU </font>  |
-| 11  | eu | \[ə\]  |<font face="courier"> en:thE,  fr:mEnu, cn:kE </font>  |
-| 鼻元音 |
-| 12  | an | \[an\] |<font face="courier"> en:bAN,  fr:cINq, cn:AN </font>  |
-| 13  | en | \[en\] |<font face="courier"> en:tEN,  fr: // , cn:EN </font>  |
-| 14  | on | \[on\] |<font face="courier"> en:tONe, fr:rONd, cn:kONG</font> |
-| 15  | in | \[in\] |<font face="courier"> en:sINk, fr: // , cn:yIN </font> |
-| 16  | un | \[un\] |<font face="courier"> en:mOON, fr: // , cn:kUN </font> |
-| 17  | yn | \[yn\] |<font face="courier"> en:tUNe, fr:dUNe, cn:jUN </font> |
-| 18  | am | \[aŋ\] |<font face="courier"> en:swAMp,fr:jAMbe,cn:kANG</font> |
+| 双元音 ||||
+| 6  | ai | \[ai\] |<font face="courier"> en:EYE,  fr: // , cn:AI </font>  |
+| 7 | ei | \[ei\] |<font face="courier"> en:hEI,  fr: // , cn:EI </font>  |
+| 8  | au | \[aʊ\] |<font face="courier"> en:hOW,  fr: // , cn:AO </font>  |
+| 9 | ou | \[əʊ\] |<font face="courier"> en:lOW,  fr: // , cn:OU </font>  |
+| 10 | eu | \[ə\]  |<font face="courier"> en:thE,  fr:mEnu, cn:kE </font>  |
+| 鼻元音 ||||
+| 11 | an | \[an\] |<font face="courier"> en:bAN,  fr:cINq, cn:AN </font>  |
+| 12 | en | \[en\] |<font face="courier"> en:tEN,  fr: // , cn:EN </font>  |
+| 13 | on | \[on\] |<font face="courier"> en:tONe, fr:rONd, cn:kONG</font> |
+| 14 | in | \[in\] |<font face="courier"> en:sINk, fr: // , cn:yIN </font> |
+| 15 | un | \[un\] |<font face="courier"> en:jUNe, fr: // , cn:kUN </font> |
+| 16 | am | \[aŋ\] |<font face="courier"> en:wANt, fr:jAMbe,cn:kANG</font> |
 
-* 除了ang(am)，其他后鼻音都按前鼻音发音		
-* 如果鼻元音后面紧跟字母g，g需单独发音读作[g]	
-* 其它形式的元音组合，需将每个元音分别读出，快速连读
-* 鼻元音后面紧跟形容词词尾-e时，m/n视为重复，下一音节视为以m/n开始
+* 除了an和ang(am)一对前后鼻音，其他前后鼻音都不加区分，并按前鼻音发音
 
-			
+* 上表之外其它形式的元音组合，需将每个元音分别读出，快速连读
+
+* n前后都是元音字母时视为两个n分别与前后结合；m前后都是元音字母时一般向后结合
+
+	​		
 ### 三、国际音标音位表
 
 按国际音标规则的音位表表示如下。
@@ -192,7 +190,7 @@ tags:
 <tr>
 <th>High
 </th><td> i
-</td><td> y
+</td><td> 
 </td><td>
 </td><td>
 </td><td> u
@@ -246,7 +244,8 @@ tags:
 </td><td>
 </td></tr></table>
 
-为简单起见，我们在别的地方会省略所有的上标、变音符号等。
+
+为简单起见，我们在其它文档中一般会省略所有的上标、变音符号等。
 
 ### 四、音节
 与英语不同，格罗比言划分音节的时候不会把连续的辅音或连续的元音分开。我们把一个或多个连续的辅音叫一个辅音组，一个或多个连续的元音叫一个元音组。
@@ -262,11 +261,8 @@ tags:
 ### 五、重音
 由于一字一音的准则，使得格罗比言的重读、轻读不影响发音，所以格罗比言里重音位置并不重要，轻重差别也不太大。
 
-一般原则是所有单词的重音都在倒数第二音节，如'manjit（吃），en'kontyt（遇见），mate'matu（数学）等。但为了有更好的节奏，有两种情况例外：
-
-* 语辅词的重音放在最后一个音节，如i'lu（他），e'lu（她），kom'bien（多少）等；
-* 三音节的基本名词和基本形容词重音在第一个音节，如'fiziku（物理），'fatige（疲惫）等；
+一般原则是所有单词的重音都在倒数第二音节，如'manjit（吃），en'kontyt（遇见），mate'matu（数学）等。但为了有更好的节奏，有一种情况例外：三音节的基本名词和基本形容词重音在第一个音节，如'fiziku（物理），'fatige（疲惫）等；
 
 另外，在句子未结束的情况下，倾向于多把在最后一个音节上使用升调，听上去比较舒服。
 
-（修订于2019-11-19）
+（修订于2020-12-19）
