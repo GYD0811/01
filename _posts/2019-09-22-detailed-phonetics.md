@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      格罗比言详解（一 语音）
+title:      星球语详解（一 语音）
 subtitle:   英汉互补，不学就会；一字一音，看到能读，听到能写
 date:       2019-09-22
 author:     Henri Jambo
