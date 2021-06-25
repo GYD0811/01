@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      格罗比言首个版本发布
+title:      星球语（格罗比言）首个版本发布
 subtitle:   v0.6版
 date:       2019-01-16
 author:     Henri Jambo
